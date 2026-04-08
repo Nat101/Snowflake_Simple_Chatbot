@@ -1,3 +1,5 @@
+# Project file for the Streamlit app
+
 name: app_environment
 channels:
   - snowflake
