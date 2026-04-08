@@ -1,3 +1,7 @@
+"""
+This python script contains the streamlit app logic. It should replace the example application code provided.
+"""
+
 import streamlit as st
 from snowflake.core import Root # requires snowflake>=0.8.0
 from snowflake.snowpark.context import get_active_session
