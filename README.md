@@ -1,2 +1,5 @@
 # Snowflake_Simple_Chatbot
-This tutorial describes how to use Cortex Search and the COMPLETE (SNOWFLAKE.CORTEX) function to setup a Retrieval-Augmented Generation (RAG) chatbot in Snowflake.
+
+This pojects builds a Retrieval-Augmented Generation (RAG) chatbot in Snowflake using Cortex Search.  It uses the dataset, BooksDatasetClean.csv from Kaggle. 
+
+The original Snowflake provided tutorial can be found here: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/tutorials/cortex-search-tutorial-2-chat#step-7-clean-up
